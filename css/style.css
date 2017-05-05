@@ -1,0 +1,226 @@
+body {
+	background-color: #151515;
+	font-family: Raleway;
+	font-weight: 300;
+
+}
+
+.container {
+	/*border: 1px solid red;*/
+	z-index: 1;
+	padding: 0;
+	overflow: hidden;
+
+}
+.row {
+	text-align: center;
+	font-size: 30px;
+	color: white;
+}
+
+.heder img {
+	margin-right: 18px;
+}
+
+
+.pozadina img {
+	width: 100%;
+	height: 100%;
+	zoom: reset;
+
+}
+
+.pozadina {
+	position: absolute;
+	z-index:-1;
+	margin-top: -42px;
+}
+
+.hero {
+	height: 594px;
+}
+
+.hero h1 {
+	position: relative;
+	color: white;
+	margin-left: 295px;
+	margin-top: 490px;
+}
+
+.electronic {
+	font-weight: 700;
+}
+.music {
+	color: #17acbd;
+	font-weight: 500;
+}
+.producer {
+	font-weight: 300;
+}
+.aboutme {
+	text-align: center;
+	height: 625px;
+	overflow: hidden;
+	padding-top: 50px;
+	color: white;
+}
+.aboutme p {
+	width: 700px;
+	/*margin: 0 auto;*/
+	margin-top: 25px;
+	margin-left: 200px;
+}
+
+.aboutme img {
+	/*border: 1px solid blue;*/
+	margin-top: 38px;
+	transform: scale(1.03);
+}
+.latest {
+	height: 100px;
+	background-color: #2b2b2b;
+	cursor: pointer;
+}
+.latest p {
+	font-size: 50px;
+	color: white;
+	text-align: center;
+	margin-top: 15px;
+}
+
+.track1 {
+	/*border: 1px solid orange;*/
+	padding-right: 15px;
+	/*overflow: hidden;*/
+}
+
+.track1 h1 {
+	position: relative;
+	margin-top: 20px;
+	display: none;
+}
+.track1:hover {
+	opacity: 0.6;
+	border: 1px solid gray;
+
+}
+
+.ltracks {
+	height: 535px;
+	overflow: hidden;
+}
+
+.ltracks img {
+	transform: scale(1.1) translateX(-15px);
+	margin: 0 auto;
+}
+
+.crni {
+	background-color: black;
+}
+
+
+
+}
+.donjired {
+	padding-bottom: 15px;
+}
+
+.timer {
+	height: 600px;
+}
+
+.datum {
+	margin-top: 75px;
+	margin-bottom: 20px;
+	z-index: 1;
+}
+.mesto {
+	margin-bottom: 20px;
+	z-index: 1;
+}
+.elements div {
+	display: inline-block;
+	font-size: 130px;
+	margin-right: 20px;
+	}
+
+.timer img {
+	z-index: -1;
+	margin-top: -380px;
+	transform: scale(0.9);
+}
+
+.wrapper {
+	height:600px;
+	overflow: hidden;
+	border: 1px solid green;
+}
+
+.wrapper img {
+	max-width: 30%;
+    max-height: 30%;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+
+.gallery {
+	/*border: 1px solid green;*/
+	height: 783px;
+	overflow: hidden;
+
+}
+.kocka {
+	height: 250px;
+	width: 291px;
+	/*border: 1px solid orange;*/
+	float: left;
+	overflow: hidden;
+}
+
+.kocka img {
+	max-height: 100%;
+	max-width: 100%;
+	transform: scale(1.5);
+}
+
+form div {
+	/*border: 1px solid blue;*/
+	margin-bottom: 50px;
+}
+
+h2 {
+	margin-bottom: 40px;
+}
+
+.social {
+	overflow: hidden;
+}
+.social div {
+	height: 50px;
+
+}
+
+.soundcloud {
+	background-color: orange;
+}
+
+.facebook {
+	background-color: blue;
+}
+
+.twitter {
+	background-color: gray;
+}
+
+.display {
+	opacity: 100%;
+}
+
+
+
+
+
+
+
